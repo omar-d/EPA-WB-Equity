@@ -1,0 +1,641 @@
+	Country	Time	Value	Income group
+0	Bahrain	2014	0.04	High income: nonOECD
+1	Croatia	2014	0.02	High income: nonOECD
+2	Cyprus	2014	0.02	High income: nonOECD
+3	Equatorial Guinea	2014	0.26	High income: nonOECD
+4	Hong Kong, China	2014	0.0	High income: nonOECD
+5	Kuwait	2014	0.05	High income: nonOECD
+6	Latvia	2014	0.01	High income: nonOECD
+7	Lithuania	2014	0.0	High income: nonOECD
+8	Oman	2014	0.04	High income: nonOECD
+9	Qatar	2014	0.18	High income: nonOECD
+10	Russia	2014	0.08	High income: nonOECD
+11	Saudi Arabia	2014	0.04	High income: nonOECD
+12	Singapore	2014	0.0	High income: nonOECD
+13	Trinidad and Tobago	2014	0.03	High income: nonOECD
+14	United Arab Emirates	2014	0.07	High income: nonOECD
+15	Uruguay	2014	0.11	High income: nonOECD
+16	Australia	2014	0.01	High income: OECD
+17	Austria	2014	0.0	High income: OECD
+18	Belgium	2014	0.01	High income: OECD
+19	Canada	2014	0.03	High income: OECD
+20	Czech Republic	2014	0.0	High income: OECD
+21	Denmark	2014	0.0	High income: OECD
+22	Finland	2014	0.01	High income: OECD
+23	France	2014	0.01	High income: OECD
+24	Germany	2014	0.0	High income: OECD
+25	Greece	2014	0.04	High income: OECD
+26	Iceland	2014	0.01	High income: OECD
+27	Ireland	2014	0.0	High income: OECD
+28	Italy	2014	0.0	High income: OECD
+29	Japan	2014	0.01	High income: OECD
+30	Korea	2014	0.0	High income: OECD
+31	Luxembourg	2014	0.01	High income: OECD
+32	Netherlands	2014	0.0	High income: OECD
+33	New Zealand	2014	0.08	High income: OECD
+34	Norway	2014	0.0	High income: OECD
+35	Poland	2014	0.02	High income: OECD
+36	Portugal	2014	0.05	High income: OECD
+37	Slovak Republic	2014	0.01	High income: OECD
+38	Spain	2014	0.01	High income: OECD
+39	Sweden	2014	0.01	High income: OECD
+40	Switzerland	2014	0.01	High income: OECD
+41	United Kingdom	2014	0.0	High income: OECD
+42	United States	2014	0.03	High income: OECD
+43	Chile	2014	0.06	High income: OECD
+44	Estonia	2014	0.05	High income: OECD
+45	Israel	2014	0.03	High income: OECD
+46	Slovenia	2014	0.01	High income: OECD
+47	Afghanistan	2014	0.17	Low income
+48	Angola	2014	0.36	Low income
+49	Bangladesh	2014	0.46	Low income
+50	Benin	2014	0.22	Low income
+51	Burkina Faso	2014	0.32	Low income
+52	Burundi	2014	0.1	Low income
+53	Cambodia	2014	0.11	Low income
+54	Central African Republic	2014	0.42	Low income
+55	Chad	2014	0.45	Low income
+56	Democratic People's Republic of Korea	2014	0.0	Low income
+57	Democratic Republic of the Congo	2014	0.25	Low income
+58	Eritrea	2014	0.31	Low income
+59	Ethiopia	2014	0.23	Low income
+60	Gambia	2014	0.25	Low income
+61	Guinea	2014	0.38	Low income
+62	Guinea-Bissau	2014	0.22	Low income
+63	Haiti	2014	0.19	Low income
+64	Kenya	2014	0.13	Low income
+65	Liberia	2014	0.2	Low income
+66	Madagascar	2014	0.4	Low income
+67	Malawi	2014	0.26	Low income
+68	Mali	2014	0.53	Low income
+69	Mozambique	2014	0.45	Low income
+70	Myanmar	2014	0.07	Low income
+71	Nepal	2014	0.29	Low income
+72	Niger	2014	0.61	Low income
+73	Rwanda	2014	0.04	Low income
+74	Sierra Leone	2014	0.31	Low income
+75	Somalia	2014	0.22	Low income
+76	Tajikistan	2014	0.13	Low income
+77	Tanzania	2014	0.2	Low income
+78	Togo	2014	0.16	Low income
+79	Uganda	2014	0.23	Low income
+80	Zimbabwe	2014	0.26	Low income
+81	Armenia	2014	0.08	Lower middle income 
+82	Bhutan	2014	0.14	Lower middle income 
+83	Bolivia	2014	0.15	Lower middle income 
+84	Cameroon	2014	0.26	Lower middle income 
+85	Congo	2014	0.2	Lower middle income 
+86	Côte d'Ivoire	2014	0.25	Lower middle income 
+87	Egypt	2014	0.14	Lower middle income 
+88	El Salvador	2014	0.17	Lower middle income 
+89	Georgia	2014	0.14	Lower middle income 
+90	Ghana	2014	0.09	Lower middle income 
+91	Guatemala	2014	0.2	Lower middle income 
+92	Honduras	2014	0.25	Lower middle income 
+93	India	2014	0.28	Lower middle income 
+94	Indonesia	2014	0.14	Lower middle income 
+95	Kyrgyzstan	2014	0.08	Lower middle income 
+96	Lao People's Democratic Republic	2014	0.2	Lower middle income 
+97	Lesotho	2014	0.15	Lower middle income 
+98	Mauritania	2014	0.28	Lower middle income 
+99	Moldova	2014	0.11	Lower middle income 
+100	Mongolia	2014	0.04	Lower middle income 
+101	Morocco	2014	0.11	Lower middle income 
+102	Nicaragua	2014	0.3	Lower middle income 
+103	Nigeria	2014	0.29	Lower middle income 
+104	Palestinian Authority or West Bank and Gaza Strip	2014	0.06	Lower middle income 
+105	Pakistan	2014	0.11	Lower middle income 
+106	Papua New Guinea	2014	0.16	Lower middle income 
+107	Paraguay	2014	0.13	Lower middle income 
+108	Philippines	2014	0.05	Lower middle income 
+109	Senegal	2014	0.25	Lower middle income 
+110	Sri Lanka	2014	0.09	Lower middle income 
+111	Sudan	2014	0.24	Lower middle income 
+112	Eswatini	2014	0.07	Lower middle income 
+113	Syrian Arab Republic	2014	0.11	Lower middle income 
+114	Timor-Leste	2014	0.08	Lower middle income 
+115	Ukraine	2014	0.07	Lower middle income 
+116	Uzbekistan	2014	0.05	Lower middle income 
+117	Viet Nam	2014	0.1	Lower middle income 
+118	Yemen	2014	0.17	Lower middle income 
+119	Zambia	2014	0.19	Lower middle income 
+120	Hungary	2014	0.01	Upper middle income
+121	Mexico	2014	0.17	Upper middle income
+122	Turkey	2014	0.1	Upper middle income
+123	Albania	2014	0.07	Upper middle income
+124	Algeria	2014	0.02	Upper middle income
+125	Argentina	2014	0.13	Upper middle income
+126	Azerbaijan	2014	0.08	Upper middle income
+127	Belarus	2014	0.04	Upper middle income
+128	Bosnia and Herzegovina	2014	0.17	Upper middle income
+129	Botswana	2014	0.05	Upper middle income
+130	Brazil	2014	0.04	Upper middle income
+131	Bulgaria	2014	0.09	Upper middle income
+132	China (People's Republic of)	2014	0.02	Upper middle income
+133	Colombia	2014	0.17	Upper middle income
+134	Costa Rica	2014	0.13	Upper middle income
+135	Cuba	2014	0.23	Upper middle income
+136	Dominican Republic	2014	0.27	Upper middle income
+137	Ecuador	2014	0.22	Upper middle income
+138	Fiji	2014	0.1	Upper middle income
+139	Gabon	2014	0.22	Upper middle income
+140	Iran	2014	0.21	Upper middle income
+141	Iraq	2014	0.19	Upper middle income
+142	Jamaica	2014	0.01	Upper middle income
+143	Jordan	2014	0.07	Upper middle income
+144	Kazakhstan	2014	0.05	Upper middle income
+145	Lebanon	2014	0.03	Upper middle income
+146	Libya	2014	0.03	Upper middle income
+147	Former Yugoslav Republic of Macedonia	2014	0.07	Upper middle income
+148	Malaysia	2014	0.06	Upper middle income
+149	Mauritius	2014	0.1	Upper middle income
+150	Namibia	2014	0.05	Upper middle income
+151	Panama	2014	0.22	Upper middle income
+152	Peru	2014	0.16	Upper middle income
+153	Romania	2014	0.03	Upper middle income
+154	South Africa	2014	0.03	Upper middle income
+155	Thailand	2014	0.11	Upper middle income
+156	Tunisia	2014	0.02	Upper middle income
+157	Turkmenistan	2014	0.05	Upper middle income
+158	Venezuela	2014	0.17	Upper middle income
+159	Serbia	2014	0.05	Upper middle income
+160	Australia	2014	0.01	All income categories
+161	Austria	2014	0.0	All income categories
+162	Belgium	2014	0.01	All income categories
+163	Canada	2014	0.03	All income categories
+164	Czech Republic	2014	0.0	All income categories
+165	Denmark	2014	0.0	All income categories
+166	Finland	2014	0.01	All income categories
+167	France	2014	0.01	All income categories
+168	Germany	2014	0.0	All income categories
+169	Greece	2014	0.04	All income categories
+170	Hungary	2014	0.01	All income categories
+171	Iceland	2014	0.01	All income categories
+172	Ireland	2014	0.0	All income categories
+173	Italy	2014	0.0	All income categories
+174	Japan	2014	0.01	All income categories
+175	Korea	2014	0.0	All income categories
+176	Luxembourg	2014	0.01	All income categories
+177	Mexico	2014	0.17	All income categories
+178	Netherlands	2014	0.0	All income categories
+179	New Zealand	2014	0.08	All income categories
+180	Norway	2014	0.0	All income categories
+181	Poland	2014	0.02	All income categories
+182	Portugal	2014	0.05	All income categories
+183	Slovak Republic	2014	0.01	All income categories
+184	Spain	2014	0.01	All income categories
+185	Sweden	2014	0.01	All income categories
+186	Switzerland	2014	0.01	All income categories
+187	Turkey	2014	0.1	All income categories
+188	United Kingdom	2014	0.0	All income categories
+189	United States	2014	0.03	All income categories
+190	Afghanistan	2014	0.17	All income categories
+191	Albania	2014	0.07	All income categories
+192	Algeria	2014	0.02	All income categories
+193	Angola	2014	0.36	All income categories
+194	Argentina	2014	0.13	All income categories
+195	Armenia	2014	0.08	All income categories
+196	Azerbaijan	2014	0.08	All income categories
+197	Bahrain	2014	0.04	All income categories
+198	Bangladesh	2014	0.46	All income categories
+199	Belarus	2014	0.04	All income categories
+200	Benin	2014	0.22	All income categories
+201	Bhutan	2014	0.14	All income categories
+202	Bolivia	2014	0.15	All income categories
+203	Bosnia and Herzegovina	2014	0.17	All income categories
+204	Botswana	2014	0.05	All income categories
+205	Brazil	2014	0.04	All income categories
+206	Bulgaria	2014	0.09	All income categories
+207	Burkina Faso	2014	0.32	All income categories
+208	Burundi	2014	0.1	All income categories
+209	Cambodia	2014	0.11	All income categories
+210	Cameroon	2014	0.26	All income categories
+211	Central African Republic	2014	0.42	All income categories
+212	Chad	2014	0.45	All income categories
+213	Chile	2014	0.06	All income categories
+214	China (People's Republic of)	2014	0.02	All income categories
+215	Colombia	2014	0.17	All income categories
+216	Congo	2014	0.2	All income categories
+217	Costa Rica	2014	0.13	All income categories
+218	Côte d'Ivoire	2014	0.25	All income categories
+219	Croatia	2014	0.02	All income categories
+220	Cuba	2014	0.23	All income categories
+221	Cyprus	2014	0.02	All income categories
+222	Democratic People's Republic of Korea	2014	0.0	All income categories
+223	Democratic Republic of the Congo	2014	0.25	All income categories
+224	Dominican Republic	2014	0.27	All income categories
+225	Ecuador	2014	0.22	All income categories
+226	Egypt	2014	0.14	All income categories
+227	El Salvador	2014	0.17	All income categories
+228	Equatorial Guinea	2014	0.26	All income categories
+229	Eritrea	2014	0.31	All income categories
+230	Estonia	2014	0.05	All income categories
+231	Ethiopia	2014	0.23	All income categories
+232	Fiji	2014	0.1	All income categories
+233	Gabon	2014	0.22	All income categories
+234	Gambia	2014	0.25	All income categories
+235	Georgia	2014	0.14	All income categories
+236	Ghana	2014	0.09	All income categories
+237	Guatemala	2014	0.2	All income categories
+238	Guinea	2014	0.38	All income categories
+239	Guinea-Bissau	2014	0.22	All income categories
+240	Haiti	2014	0.19	All income categories
+241	Honduras	2014	0.25	All income categories
+242	Hong Kong, China	2014	0.0	All income categories
+243	India	2014	0.28	All income categories
+244	Indonesia	2014	0.14	All income categories
+245	Iran	2014	0.21	All income categories
+246	Iraq	2014	0.19	All income categories
+247	Israel	2014	0.03	All income categories
+248	Jamaica	2014	0.01	All income categories
+249	Jordan	2014	0.07	All income categories
+250	Kazakhstan	2014	0.05	All income categories
+251	Kenya	2014	0.13	All income categories
+252	Kuwait	2014	0.05	All income categories
+253	Kyrgyzstan	2014	0.08	All income categories
+254	Lao People's Democratic Republic	2014	0.2	All income categories
+255	Latvia	2014	0.01	All income categories
+256	Lebanon	2014	0.03	All income categories
+257	Lesotho	2014	0.15	All income categories
+258	Liberia	2014	0.2	All income categories
+259	Libya	2014	0.03	All income categories
+260	Lithuania	2014	0.0	All income categories
+261	Former Yugoslav Republic of Macedonia	2014	0.07	All income categories
+262	Madagascar	2014	0.4	All income categories
+263	Malawi	2014	0.26	All income categories
+264	Malaysia	2014	0.06	All income categories
+265	Mali	2014	0.53	All income categories
+266	Mauritania	2014	0.28	All income categories
+267	Mauritius	2014	0.1	All income categories
+268	Moldova	2014	0.11	All income categories
+269	Mongolia	2014	0.04	All income categories
+270	Morocco	2014	0.11	All income categories
+271	Mozambique	2014	0.45	All income categories
+272	Myanmar	2014	0.07	All income categories
+273	Namibia	2014	0.05	All income categories
+274	Nepal	2014	0.29	All income categories
+275	Nicaragua	2014	0.3	All income categories
+276	Niger	2014	0.61	All income categories
+277	Nigeria	2014	0.29	All income categories
+278	Palestinian Authority or West Bank and Gaza Strip	2014	0.06	All income categories
+279	Oman	2014	0.04	All income categories
+280	Pakistan	2014	0.11	All income categories
+281	Panama	2014	0.22	All income categories
+282	Papua New Guinea	2014	0.16	All income categories
+283	Paraguay	2014	0.13	All income categories
+284	Peru	2014	0.16	All income categories
+285	Philippines	2014	0.05	All income categories
+286	Qatar	2014	0.18	All income categories
+287	Romania	2014	0.03	All income categories
+288	Russia	2014	0.08	All income categories
+289	Rwanda	2014	0.04	All income categories
+290	Saudi Arabia	2014	0.04	All income categories
+291	Senegal	2014	0.25	All income categories
+292	Sierra Leone	2014	0.31	All income categories
+293	Singapore	2014	0.0	All income categories
+294	Slovenia	2014	0.01	All income categories
+295	Somalia	2014	0.22	All income categories
+296	South Africa	2014	0.03	All income categories
+297	Sri Lanka	2014	0.09	All income categories
+298	Sudan	2014	0.24	All income categories
+299	Eswatini	2014	0.07	All income categories
+300	Syrian Arab Republic	2014	0.11	All income categories
+301	Tajikistan	2014	0.13	All income categories
+302	Tanzania	2014	0.2	All income categories
+303	Thailand	2014	0.11	All income categories
+304	Timor-Leste	2014	0.08	All income categories
+305	Togo	2014	0.16	All income categories
+306	Trinidad and Tobago	2014	0.03	All income categories
+307	Tunisia	2014	0.02	All income categories
+308	Turkmenistan	2014	0.05	All income categories
+309	Uganda	2014	0.23	All income categories
+310	Ukraine	2014	0.07	All income categories
+311	United Arab Emirates	2014	0.07	All income categories
+312	Uruguay	2014	0.11	All income categories
+313	Uzbekistan	2014	0.05	All income categories
+314	Venezuela	2014	0.17	All income categories
+315	Viet Nam	2014	0.1	All income categories
+316	Yemen	2014	0.17	All income categories
+317	Zambia	2014	0.19	All income categories
+318	Zimbabwe	2014	0.26	All income categories
+319	Serbia	2014	0.05	All income categories
+320	Bahrain	2014	0.04	High income: nonOECD
+321	Croatia	2014	0.02	High income: nonOECD
+322	Cyprus	2014	0.02	High income: nonOECD
+323	Equatorial Guinea	2014	0.26	High income: nonOECD
+324	Hong Kong, China	2014	0.0	High income: nonOECD
+325	Kuwait	2014	0.05	High income: nonOECD
+326	Latvia	2014	0.01	High income: nonOECD
+327	Lithuania	2014	0.0	High income: nonOECD
+328	Oman	2014	0.04	High income: nonOECD
+329	Qatar	2014	0.18	High income: nonOECD
+330	Russia	2014	0.08	High income: nonOECD
+331	Saudi Arabia	2014	0.04	High income: nonOECD
+332	Singapore	2014	0.0	High income: nonOECD
+333	Trinidad and Tobago	2014	0.03	High income: nonOECD
+334	United Arab Emirates	2014	0.07	High income: nonOECD
+335	Uruguay	2014	0.11	High income: nonOECD
+336	Australia	2014	0.01	High income: OECD
+337	Austria	2014	0.0	High income: OECD
+338	Belgium	2014	0.01	High income: OECD
+339	Canada	2014	0.03	High income: OECD
+340	Czech Republic	2014	0.0	High income: OECD
+341	Denmark	2014	0.0	High income: OECD
+342	Finland	2014	0.01	High income: OECD
+343	France	2014	0.01	High income: OECD
+344	Germany	2014	0.0	High income: OECD
+345	Greece	2014	0.04	High income: OECD
+346	Iceland	2014	0.01	High income: OECD
+347	Ireland	2014	0.0	High income: OECD
+348	Italy	2014	0.0	High income: OECD
+349	Japan	2014	0.01	High income: OECD
+350	Korea	2014	0.0	High income: OECD
+351	Luxembourg	2014	0.01	High income: OECD
+352	Netherlands	2014	0.0	High income: OECD
+353	New Zealand	2014	0.08	High income: OECD
+354	Norway	2014	0.0	High income: OECD
+355	Poland	2014	0.02	High income: OECD
+356	Portugal	2014	0.05	High income: OECD
+357	Slovak Republic	2014	0.01	High income: OECD
+358	Spain	2014	0.01	High income: OECD
+359	Sweden	2014	0.01	High income: OECD
+360	Switzerland	2014	0.01	High income: OECD
+361	United Kingdom	2014	0.0	High income: OECD
+362	United States	2014	0.03	High income: OECD
+363	Chile	2014	0.06	High income: OECD
+364	Estonia	2014	0.05	High income: OECD
+365	Israel	2014	0.03	High income: OECD
+366	Slovenia	2014	0.01	High income: OECD
+367	Afghanistan	2014	0.17	Low income
+368	Angola	2014	0.36	Low income
+369	Bangladesh	2014	0.46	Low income
+370	Benin	2014	0.22	Low income
+371	Burkina Faso	2014	0.32	Low income
+372	Burundi	2014	0.1	Low income
+373	Cambodia	2014	0.11	Low income
+374	Central African Republic	2014	0.42	Low income
+375	Chad	2014	0.45	Low income
+376	Democratic People's Republic of Korea	2014	0.0	Low income
+377	Democratic Republic of the Congo	2014	0.25	Low income
+378	Eritrea	2014	0.31	Low income
+379	Ethiopia	2014	0.23	Low income
+380	Gambia	2014	0.25	Low income
+381	Guinea	2014	0.38	Low income
+382	Guinea-Bissau	2014	0.22	Low income
+383	Haiti	2014	0.19	Low income
+384	Kenya	2014	0.13	Low income
+385	Liberia	2014	0.2	Low income
+386	Madagascar	2014	0.4	Low income
+387	Malawi	2014	0.26	Low income
+388	Mali	2014	0.53	Low income
+389	Mozambique	2014	0.45	Low income
+390	Myanmar	2014	0.07	Low income
+391	Nepal	2014	0.29	Low income
+392	Niger	2014	0.61	Low income
+393	Rwanda	2014	0.04	Low income
+394	Sierra Leone	2014	0.31	Low income
+395	Somalia	2014	0.22	Low income
+396	Tajikistan	2014	0.13	Low income
+397	Tanzania	2014	0.2	Low income
+398	Togo	2014	0.16	Low income
+399	Uganda	2014	0.23	Low income
+400	Zimbabwe	2014	0.26	Low income
+401	Armenia	2014	0.08	Lower middle income 
+402	Bhutan	2014	0.14	Lower middle income 
+403	Bolivia	2014	0.15	Lower middle income 
+404	Cameroon	2014	0.26	Lower middle income 
+405	Congo	2014	0.2	Lower middle income 
+406	Côte d'Ivoire	2014	0.25	Lower middle income 
+407	Egypt	2014	0.14	Lower middle income 
+408	El Salvador	2014	0.17	Lower middle income 
+409	Georgia	2014	0.14	Lower middle income 
+410	Ghana	2014	0.09	Lower middle income 
+411	Guatemala	2014	0.2	Lower middle income 
+412	Honduras	2014	0.25	Lower middle income 
+413	India	2014	0.28	Lower middle income 
+414	Indonesia	2014	0.14	Lower middle income 
+415	Kyrgyzstan	2014	0.08	Lower middle income 
+416	Lao People's Democratic Republic	2014	0.2	Lower middle income 
+417	Lesotho	2014	0.15	Lower middle income 
+418	Mauritania	2014	0.28	Lower middle income 
+419	Moldova	2014	0.11	Lower middle income 
+420	Mongolia	2014	0.04	Lower middle income 
+421	Morocco	2014	0.11	Lower middle income 
+422	Nicaragua	2014	0.3	Lower middle income 
+423	Nigeria	2014	0.29	Lower middle income 
+424	Palestinian Authority or West Bank and Gaza Strip	2014	0.06	Lower middle income 
+425	Pakistan	2014	0.11	Lower middle income 
+426	Papua New Guinea	2014	0.16	Lower middle income 
+427	Paraguay	2014	0.13	Lower middle income 
+428	Philippines	2014	0.05	Lower middle income 
+429	Senegal	2014	0.25	Lower middle income 
+430	Sri Lanka	2014	0.09	Lower middle income 
+431	Sudan	2014	0.24	Lower middle income 
+432	Eswatini	2014	0.07	Lower middle income 
+433	Syrian Arab Republic	2014	0.11	Lower middle income 
+434	Timor-Leste	2014	0.08	Lower middle income 
+435	Ukraine	2014	0.07	Lower middle income 
+436	Uzbekistan	2014	0.05	Lower middle income 
+437	Viet Nam	2014	0.1	Lower middle income 
+438	Yemen	2014	0.17	Lower middle income 
+439	Zambia	2014	0.19	Lower middle income 
+440	Hungary	2014	0.01	Upper middle income
+441	Mexico	2014	0.17	Upper middle income
+442	Turkey	2014	0.1	Upper middle income
+443	Albania	2014	0.07	Upper middle income
+444	Algeria	2014	0.02	Upper middle income
+445	Argentina	2014	0.13	Upper middle income
+446	Azerbaijan	2014	0.08	Upper middle income
+447	Belarus	2014	0.04	Upper middle income
+448	Bosnia and Herzegovina	2014	0.17	Upper middle income
+449	Botswana	2014	0.05	Upper middle income
+450	Brazil	2014	0.04	Upper middle income
+451	Bulgaria	2014	0.09	Upper middle income
+452	China (People's Republic of)	2014	0.02	Upper middle income
+453	Colombia	2014	0.17	Upper middle income
+454	Costa Rica	2014	0.13	Upper middle income
+455	Cuba	2014	0.23	Upper middle income
+456	Dominican Republic	2014	0.27	Upper middle income
+457	Ecuador	2014	0.22	Upper middle income
+458	Fiji	2014	0.1	Upper middle income
+459	Gabon	2014	0.22	Upper middle income
+460	Iran	2014	0.21	Upper middle income
+461	Iraq	2014	0.19	Upper middle income
+462	Jamaica	2014	0.01	Upper middle income
+463	Jordan	2014	0.07	Upper middle income
+464	Kazakhstan	2014	0.05	Upper middle income
+465	Lebanon	2014	0.03	Upper middle income
+466	Libya	2014	0.03	Upper middle income
+467	Former Yugoslav Republic of Macedonia	2014	0.07	Upper middle income
+468	Malaysia	2014	0.06	Upper middle income
+469	Mauritius	2014	0.1	Upper middle income
+470	Namibia	2014	0.05	Upper middle income
+471	Panama	2014	0.22	Upper middle income
+472	Peru	2014	0.16	Upper middle income
+473	Romania	2014	0.03	Upper middle income
+474	South Africa	2014	0.03	Upper middle income
+475	Thailand	2014	0.11	Upper middle income
+476	Tunisia	2014	0.02	Upper middle income
+477	Turkmenistan	2014	0.05	Upper middle income
+478	Venezuela	2014	0.17	Upper middle income
+479	Serbia	2014	0.05	Upper middle income
+480	Australia	2014	0.01	All income categories
+481	Austria	2014	0.0	All income categories
+482	Belgium	2014	0.01	All income categories
+483	Canada	2014	0.03	All income categories
+484	Czech Republic	2014	0.0	All income categories
+485	Denmark	2014	0.0	All income categories
+486	Finland	2014	0.01	All income categories
+487	France	2014	0.01	All income categories
+488	Germany	2014	0.0	All income categories
+489	Greece	2014	0.04	All income categories
+490	Hungary	2014	0.01	All income categories
+491	Iceland	2014	0.01	All income categories
+492	Ireland	2014	0.0	All income categories
+493	Italy	2014	0.0	All income categories
+494	Japan	2014	0.01	All income categories
+495	Korea	2014	0.0	All income categories
+496	Luxembourg	2014	0.01	All income categories
+497	Mexico	2014	0.17	All income categories
+498	Netherlands	2014	0.0	All income categories
+499	New Zealand	2014	0.08	All income categories
+500	Norway	2014	0.0	All income categories
+501	Poland	2014	0.02	All income categories
+502	Portugal	2014	0.05	All income categories
+503	Slovak Republic	2014	0.01	All income categories
+504	Spain	2014	0.01	All income categories
+505	Sweden	2014	0.01	All income categories
+506	Switzerland	2014	0.01	All income categories
+507	Turkey	2014	0.1	All income categories
+508	United Kingdom	2014	0.0	All income categories
+509	United States	2014	0.03	All income categories
+510	Afghanistan	2014	0.17	All income categories
+511	Albania	2014	0.07	All income categories
+512	Algeria	2014	0.02	All income categories
+513	Angola	2014	0.36	All income categories
+514	Argentina	2014	0.13	All income categories
+515	Armenia	2014	0.08	All income categories
+516	Azerbaijan	2014	0.08	All income categories
+517	Bahrain	2014	0.04	All income categories
+518	Bangladesh	2014	0.46	All income categories
+519	Belarus	2014	0.04	All income categories
+520	Benin	2014	0.22	All income categories
+521	Bhutan	2014	0.14	All income categories
+522	Bolivia	2014	0.15	All income categories
+523	Bosnia and Herzegovina	2014	0.17	All income categories
+524	Botswana	2014	0.05	All income categories
+525	Brazil	2014	0.04	All income categories
+526	Bulgaria	2014	0.09	All income categories
+527	Burkina Faso	2014	0.32	All income categories
+528	Burundi	2014	0.1	All income categories
+529	Cambodia	2014	0.11	All income categories
+530	Cameroon	2014	0.26	All income categories
+531	Central African Republic	2014	0.42	All income categories
+532	Chad	2014	0.45	All income categories
+533	Chile	2014	0.06	All income categories
+534	China (People's Republic of)	2014	0.02	All income categories
+535	Colombia	2014	0.17	All income categories
+536	Congo	2014	0.2	All income categories
+537	Costa Rica	2014	0.13	All income categories
+538	Côte d'Ivoire	2014	0.25	All income categories
+539	Croatia	2014	0.02	All income categories
+540	Cuba	2014	0.23	All income categories
+541	Cyprus	2014	0.02	All income categories
+542	Democratic People's Republic of Korea	2014	0.0	All income categories
+543	Democratic Republic of the Congo	2014	0.25	All income categories
+544	Dominican Republic	2014	0.27	All income categories
+545	Ecuador	2014	0.22	All income categories
+546	Egypt	2014	0.14	All income categories
+547	El Salvador	2014	0.17	All income categories
+548	Equatorial Guinea	2014	0.26	All income categories
+549	Eritrea	2014	0.31	All income categories
+550	Estonia	2014	0.05	All income categories
+551	Ethiopia	2014	0.23	All income categories
+552	Fiji	2014	0.1	All income categories
+553	Gabon	2014	0.22	All income categories
+554	Gambia	2014	0.25	All income categories
+555	Georgia	2014	0.14	All income categories
+556	Ghana	2014	0.09	All income categories
+557	Guatemala	2014	0.2	All income categories
+558	Guinea	2014	0.38	All income categories
+559	Guinea-Bissau	2014	0.22	All income categories
+560	Haiti	2014	0.19	All income categories
+561	Honduras	2014	0.25	All income categories
+562	Hong Kong, China	2014	0.0	All income categories
+563	India	2014	0.28	All income categories
+564	Indonesia	2014	0.14	All income categories
+565	Iran	2014	0.21	All income categories
+566	Iraq	2014	0.19	All income categories
+567	Israel	2014	0.03	All income categories
+568	Jamaica	2014	0.01	All income categories
+569	Jordan	2014	0.07	All income categories
+570	Kazakhstan	2014	0.05	All income categories
+571	Kenya	2014	0.13	All income categories
+572	Kuwait	2014	0.05	All income categories
+573	Kyrgyzstan	2014	0.08	All income categories
+574	Lao People's Democratic Republic	2014	0.2	All income categories
+575	Latvia	2014	0.01	All income categories
+576	Lebanon	2014	0.03	All income categories
+577	Lesotho	2014	0.15	All income categories
+578	Liberia	2014	0.2	All income categories
+579	Libya	2014	0.03	All income categories
+580	Lithuania	2014	0.0	All income categories
+581	Former Yugoslav Republic of Macedonia	2014	0.07	All income categories
+582	Madagascar	2014	0.4	All income categories
+583	Malawi	2014	0.26	All income categories
+584	Malaysia	2014	0.06	All income categories
+585	Mali	2014	0.53	All income categories
+586	Mauritania	2014	0.28	All income categories
+587	Mauritius	2014	0.1	All income categories
+588	Moldova	2014	0.11	All income categories
+589	Mongolia	2014	0.04	All income categories
+590	Morocco	2014	0.11	All income categories
+591	Mozambique	2014	0.45	All income categories
+592	Myanmar	2014	0.07	All income categories
+593	Namibia	2014	0.05	All income categories
+594	Nepal	2014	0.29	All income categories
+595	Nicaragua	2014	0.3	All income categories
+596	Niger	2014	0.61	All income categories
+597	Nigeria	2014	0.29	All income categories
+598	Palestinian Authority or West Bank and Gaza Strip	2014	0.06	All income categories
+599	Oman	2014	0.04	All income categories
+600	Pakistan	2014	0.11	All income categories
+601	Panama	2014	0.22	All income categories
+602	Papua New Guinea	2014	0.16	All income categories
+603	Paraguay	2014	0.13	All income categories
+604	Peru	2014	0.16	All income categories
+605	Philippines	2014	0.05	All income categories
+606	Qatar	2014	0.18	All income categories
+607	Romania	2014	0.03	All income categories
+608	Russia	2014	0.08	All income categories
+609	Rwanda	2014	0.04	All income categories
+610	Saudi Arabia	2014	0.04	All income categories
+611	Senegal	2014	0.25	All income categories
+612	Sierra Leone	2014	0.31	All income categories
+613	Singapore	2014	0.0	All income categories
+614	Slovenia	2014	0.01	All income categories
+615	Somalia	2014	0.22	All income categories
+616	South Africa	2014	0.03	All income categories
+617	Sri Lanka	2014	0.09	All income categories
+618	Sudan	2014	0.24	All income categories
+619	Eswatini	2014	0.07	All income categories
+620	Syrian Arab Republic	2014	0.11	All income categories
+621	Tajikistan	2014	0.13	All income categories
+622	Tanzania	2014	0.2	All income categories
+623	Thailand	2014	0.11	All income categories
+624	Timor-Leste	2014	0.08	All income categories
+625	Togo	2014	0.16	All income categories
+626	Trinidad and Tobago	2014	0.03	All income categories
+627	Tunisia	2014	0.02	All income categories
+628	Turkmenistan	2014	0.05	All income categories
+629	Uganda	2014	0.23	All income categories
+630	Ukraine	2014	0.07	All income categories
+631	United Arab Emirates	2014	0.07	All income categories
+632	Uruguay	2014	0.11	All income categories
+633	Uzbekistan	2014	0.05	All income categories
+634	Venezuela	2014	0.17	All income categories
+635	Viet Nam	2014	0.1	All income categories
+636	Yemen	2014	0.17	All income categories
+637	Zambia	2014	0.19	All income categories
+638	Zimbabwe	2014	0.26	All income categories
+639	Serbia	2014	0.05	All income categories
